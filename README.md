@@ -1,4 +1,4 @@
-# Restaurant Management System 🍽️
+# Restaurant Management System 
 
 This is a project I worked on to understand how restaurant management systems work and how software can make everyday restaurant operations easier.
 
